@@ -10,7 +10,7 @@ De acuerdo con la estructura organizacional:
 		especialidad. Por ejemplo, un jefe de producción se especializaría sólo en ese campo y no para resolver problemas como la rotura de una maquinaria.
 
 	⨀ Organización divisional.
-		Se establece basándose en la consitítución de unidades pequeñas y autónomas en torno a la constitución general de la empresa. Se puede clasificar de la siguiente forma:
+		Se establece basándose en la consititución de unidades pequeñas y autónomas en torno a la constitución general de la empresa. Se puede clasificar de la siguiente forma:
 			-Divisional geográfica
 			-Divisional por productos
 			-Divisional por clientes
