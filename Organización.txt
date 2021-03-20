@@ -1,0 +1,18 @@
+>>>Organización<<<
+
+Nos permite segmentar las diversas áreas o departamentos en una empresa, identificando puestos de trabajo, desginando las actividades y funciones de cada uno de los integrantes.
+
+De acuerdo con la estructura organizacional: 
+
+	⨀ Organización funcional.
+		Es la existencia de diversos supervisores, cada cual especializado en determinadas áreas. Esto indica que la organización funcional no cumple con el principio de unidad 
+		de mando.Dentro de esta organización cada obrero pasaría a responder ante varios jefes. Sin embargo, cada jefe sólo supervisaría a los obreros en los asutos de su 
+		especialidad. Por ejemplo, un jefe de producción se especializaría sólo en ese campo y no para resolver problemas como la rotura de una maquinaria.
+
+	⨀ Organización divisional.
+		Se establece basándose en la consitítución de unidades pequeñas y autónomas en torno a la constitución general de la empresa. Se puede clasificar de la siguiente forma:
+			-Divisional geográfica
+			-Divisional por productos
+			-Divisional por clientes
+			-Divisional por procesos o equipo
+			-Divisional por secuencia
